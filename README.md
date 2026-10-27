@@ -1,4 +1,4 @@
-# Sentry Health // DSA IA3 Hospital Intelligence & Triage System
+# MediTree // DSA IA3 Hospital Intelligence & Triage System
 
 An integrated medical facility management platform built for **Semester 3 Data Structures and Algorithms (DSA Micro-Project IA3)**. The system handles emergency triage, longitudinal patient visit logging, large-scale medical record organization, AI symptom-based decision-tree diagnosis, and epidemiological contagion tracking.
 
