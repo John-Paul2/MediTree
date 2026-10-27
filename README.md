@@ -2,8 +2,6 @@
 
 An integrated medical facility management platform built for **Semester 3 Data Structures and Algorithms (DSA Micro-Project IA3)**. The system handles emergency triage, longitudinal patient visit logging, large-scale medical record organization, AI symptom-based decision-tree diagnosis, and epidemiological contagion tracking.
 
-Styled following the **Sentry Design System** (`DESIGN-sentry.md`): crisp porcelain canvas (`#f6f5fb`), pure white cards (`#ffffff`), ink-deep typography (`#150f23`), electric lime highlight accents (`#c2ef4e`), and Google Rubik typography — with a 1-click **Light/Dark Mode toggle** included.
-
 ---
 
 ## 📋 Course Outcome (CO1 – CO5) Architecture Mapping
